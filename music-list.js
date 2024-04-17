@@ -54,7 +54,7 @@ let allMusic = [
     {
       name: "YÊU 4",
       artist: "Rhymastic",
-      img: "yeu4",
+      img: "hqdefault",
       src: "yeu4"
     },
   ];
