@@ -17,7 +17,7 @@ let allMusic = [
     {
       name: "Em không được phép buồn :(",
       artist: "Kis",
-      img: "",
+      img: "sddefault",
       src: "em_khong_duoc_buon"
     },
    
